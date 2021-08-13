@@ -46,7 +46,7 @@ pre {
 }
 
 .container {
-  max-width: 780px;
+  max-width: 940px;
   margin: 0 auto;
   padding: 20px 40px 100px;
 }
@@ -74,4 +74,8 @@ pre {
   margin: 0;
   padding: 40px 0;
   list-style: none;
+}
+
+.description {
+  max-width: 65%;
 }
